@@ -22,12 +22,11 @@ I'm passionate about building scalable backend systems and microservices. With e
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdihaikal&layout=compact&theme=radical)
 
 ## 🎓 Education
-- Bachelor of Computer Science - University of Indonesia
+- Bachelor of Engineering - University of Indonesia
 
 ## 📫 Connect With Me
 - LinkedIn: [Abdi Haikal](https://linkedin.com/in/abdihaikal)
 - Twitter/X: [@abdihaikal](https://twitter.com/abdihaikal)
-- Email: [abdi.haikal@example.com](mailto:your-email@example.com)
 
 ---
 
